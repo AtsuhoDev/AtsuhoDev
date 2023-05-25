@@ -16,12 +16,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AtsuhoDev&theme=highcontrast)](https://git.io/streak-stats)
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guldan45&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtsuhoDev&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=recount-addonscustom-3.3.5&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/Recount-AddonsCustom-3.3.5)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=PriceItem-Addon-BC-1.4.0&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/PriceItem-Addon-BC-1.4.0) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=NewUI-Vanilla-1.12&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/NewUI-Vanilla-1.12)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=Cloud-E-Azure&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/Cloud-E-Azure)
 
  
 
